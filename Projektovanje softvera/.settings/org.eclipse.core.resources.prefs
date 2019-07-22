@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//TaksiSluzba/src/forme/FrmDetaljiVozila.java=UTF-8
+encoding//TaksiSluzba/src/forme/FrmLogin.java=UTF-8
+encoding//TaksiSluzba/src/forme/FrmUnosEvidencija.java=UTF-8
+encoding//TaksiSluzba/src/forme/FrmUnosTaksista.java=UTF-8
+encoding//TaksiSluzba/src/forme/FrmUnosVozila.java=UTF-8
+encoding//TaksiSluzba/src/forme/model/EvidencijaTableModel.java=UTF-8
+encoding//TaksiSluzba/src/forme/model/EvidencijaTaksistaTableModel.java=UTF-8
+encoding//TaksiSluzbaServer/src/db/DatabaseBroker.java=UTF-8
