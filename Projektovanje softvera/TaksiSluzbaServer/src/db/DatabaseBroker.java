@@ -59,7 +59,7 @@ public class DatabaseBroker {
     	
         try {
             DatabaseBrokerUtil dbUtil = new DatabaseBrokerUtil();
-            connection = DriverManager.getConnection("jdbc:mysql://"+ipAdresa+":"+port+"/pflhUOE8Jr?useUnicode=true&characterEncoding=utf-8&useSSL=false", dbUtil.getDBUser(), dbUtil.getDBPassword());
+            connection = DriverManager.getConnection("jdbc:mysql://"+ipAdresa+":"+port+"/NYaE0hpNOj?useUnicode=true&characterEncoding=utf-8&useSSL=false", dbUtil.getDBUser(), dbUtil.getDBPassword());
             connection.setAutoCommit(false);
         } catch (SQLException ex) {
             throw new Exception("Neuspesno otvaranje konekcije!", ex);
